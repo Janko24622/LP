@@ -1,4 +1,2 @@
-@charset "utf-8";
-            p{
-                color: rgb(7, 97, 97);
-            }
+@charset "UTF-8";
+div[lang="ja"]{color: aquamarine;}
